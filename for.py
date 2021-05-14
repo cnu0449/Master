@@ -15,6 +15,8 @@ elif loc=='Bank':
 else:
 	print('I dont understand')
 
+echo "Hi"
+	
 items=[1,2,3,4]
 for i in items:
 	print(i)
